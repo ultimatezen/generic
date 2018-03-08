@@ -1,0 +1,4202 @@
+{
+	"24112": {
+		"name": "Agui",
+		"stateId": 1918
+	},
+	"24113": {
+		"name": "Anjo",
+		"stateId": 1918
+	},
+	"24114": {
+		"name": "Atsumi",
+		"stateId": 1918
+	},
+	"24115": {
+		"name": "Bisai",
+		"stateId": 1918
+	},
+	"24116": {
+		"name": "Chiryu",
+		"stateId": 1918
+	},
+	"24117": {
+		"name": "Chita",
+		"stateId": 1918
+	},
+	"24118": {
+		"name": "Fujioka",
+		"stateId": 1918
+	},
+	"24119": {
+		"name": "Fuso",
+		"stateId": 1918
+	},
+	"24120": {
+		"name": "Gamagori",
+		"stateId": 1918
+	},
+	"24121": {
+		"name": "Handa",
+		"stateId": 1918
+	},
+	"24122": {
+		"name": "Hekinan",
+		"stateId": 1918
+	},
+	"24123": {
+		"name": "Higashiura",
+		"stateId": 1918
+	},
+	"24124": {
+		"name": "Ichinomiya",
+		"stateId": 1918
+	},
+	"24125": {
+		"name": "Inazawa",
+		"stateId": 1918
+	},
+	"24126": {
+		"name": "Inuyama",
+		"stateId": 1918
+	},
+	"24127": {
+		"name": "Isshiki",
+		"stateId": 1918
+	},
+	"24128": {
+		"name": "Iwakura",
+		"stateId": 1918
+	},
+	"24129": {
+		"name": "Jimokuji",
+		"stateId": 1918
+	},
+	"24130": {
+		"name": "Kanie",
+		"stateId": 1918
+	},
+	"24131": {
+		"name": "Kariya",
+		"stateId": 1918
+	},
+	"24132": {
+		"name": "Kasugai",
+		"stateId": 1918
+	},
+	"24133": {
+		"name": "Kira",
+		"stateId": 1918
+	},
+	"24134": {
+		"name": "Kisogawa",
+		"stateId": 1918
+	},
+	"24135": {
+		"name": "Komaki",
+		"stateId": 1918
+	},
+	"24136": {
+		"name": "Konan",
+		"stateId": 1918
+	},
+	"24137": {
+		"name": "Kota",
+		"stateId": 1918
+	},
+	"24138": {
+		"name": "Kozakai",
+		"stateId": 1918
+	},
+	"24139": {
+		"name": "Mihama",
+		"stateId": 1918
+	},
+	"24140": {
+		"name": "Minamichita",
+		"stateId": 1918
+	},
+	"24141": {
+		"name": "Miwa",
+		"stateId": 1918
+	},
+	"24142": {
+		"name": "Miyoshi",
+		"stateId": 1918
+	},
+	"24143": {
+		"name": "Nagakute",
+		"stateId": 1918
+	},
+	"24144": {
+		"name": "Nagoya",
+		"stateId": 1918
+	},
+	"24145": {
+		"name": "Nishiharu",
+		"stateId": 1918
+	},
+	"24146": {
+		"name": "Nishio",
+		"stateId": 1918
+	},
+	"24147": {
+		"name": "Nisshin",
+		"stateId": 1918
+	},
+	"24148": {
+		"name": "Obu",
+		"stateId": 1918
+	},
+	"24149": {
+		"name": "Oharu",
+		"stateId": 1918
+	},
+	"24150": {
+		"name": "Okazaki",
+		"stateId": 1918
+	},
+	"24151": {
+		"name": "Owariashi",
+		"stateId": 1918
+	},
+	"24152": {
+		"name": "Saori",
+		"stateId": 1918
+	},
+	"24153": {
+		"name": "Saya",
+		"stateId": 1918
+	},
+	"24154": {
+		"name": "Seto",
+		"stateId": 1918
+	},
+	"24155": {
+		"name": "Shikatsu",
+		"stateId": 1918
+	},
+	"24156": {
+		"name": "Shinshiro",
+		"stateId": 1918
+	},
+	"24157": {
+		"name": "Shippo",
+		"stateId": 1918
+	},
+	"24158": {
+		"name": "Sobue",
+		"stateId": 1918
+	},
+	"24159": {
+		"name": "Tahara",
+		"stateId": 1918
+	},
+	"24160": {
+		"name": "Takahama",
+		"stateId": 1918
+	},
+	"24161": {
+		"name": "Taketoyo",
+		"stateId": 1918
+	},
+	"24162": {
+		"name": "Togo",
+		"stateId": 1918
+	},
+	"24163": {
+		"name": "Tokai",
+		"stateId": 1918
+	},
+	"24164": {
+		"name": "Tokoname",
+		"stateId": 1918
+	},
+	"24165": {
+		"name": "Toyoake",
+		"stateId": 1918
+	},
+	"24166": {
+		"name": "Toyohashi",
+		"stateId": 1918
+	},
+	"24167": {
+		"name": "Toyokawa",
+		"stateId": 1918
+	},
+	"24168": {
+		"name": "Toyota",
+		"stateId": 1918
+	},
+	"24169": {
+		"name": "Tsushima",
+		"stateId": 1918
+	},
+	"24170": {
+		"name": "Yatomi",
+		"stateId": 1918
+	},
+	"24171": {
+		"name": "Akita",
+		"stateId": 1919
+	},
+	"24172": {
+		"name": "Honjo",
+		"stateId": 1919
+	},
+	"24173": {
+		"name": "Kazuno",
+		"stateId": 1919
+	},
+	"24174": {
+		"name": "Noshiro",
+		"stateId": 1919
+	},
+	"24175": {
+		"name": "Odate",
+		"stateId": 1919
+	},
+	"24176": {
+		"name": "Oga",
+		"stateId": 1919
+	},
+	"24177": {
+		"name": "Omagari",
+		"stateId": 1919
+	},
+	"24178": {
+		"name": "Takanosu",
+		"stateId": 1919
+	},
+	"24179": {
+		"name": "Tenno",
+		"stateId": 1919
+	},
+	"24180": {
+		"name": "Ugo",
+		"stateId": 1919
+	},
+	"24181": {
+		"name": "Yokote",
+		"stateId": 1919
+	},
+	"24182": {
+		"name": "Yuzawa",
+		"stateId": 1919
+	},
+	"24183": {
+		"name": "Aomori",
+		"stateId": 1920
+	},
+	"24184": {
+		"name": "Goshogawara",
+		"stateId": 1920
+	},
+	"24185": {
+		"name": "Hachinohe",
+		"stateId": 1920
+	},
+	"24186": {
+		"name": "Hiraka",
+		"stateId": 1920
+	},
+	"24187": {
+		"name": "Hirosaki",
+		"stateId": 1920
+	},
+	"24188": {
+		"name": "Kizukuri",
+		"stateId": 1920
+	},
+	"24189": {
+		"name": "Kuroishi",
+		"stateId": 1920
+	},
+	"24190": {
+		"name": "Misawa",
+		"stateId": 1920
+	},
+	"24191": {
+		"name": "Mutsu",
+		"stateId": 1920
+	},
+	"24192": {
+		"name": "Namioka",
+		"stateId": 1920
+	},
+	"24193": {
+		"name": "Towada",
+		"stateId": 1920
+	},
+	"24194": {
+		"name": "Abiko",
+		"stateId": 1921
+	},
+	"24195": {
+		"name": "Asahi",
+		"stateId": 1921
+	},
+	"24196": {
+		"name": "Chiba",
+		"stateId": 1921
+	},
+	"24197": {
+		"name": "Choshi",
+		"stateId": 1921
+	},
+	"24198": {
+		"name": "Funabashi",
+		"stateId": 1921
+	},
+	"24199": {
+		"name": "Fussa",
+		"stateId": 1921
+	},
+	"24200": {
+		"name": "Futtsu",
+		"stateId": 1921
+	},
+	"24201": {
+		"name": "Ichihara",
+		"stateId": 1921
+	},
+	"24202": {
+		"name": "Ichikawa",
+		"stateId": 1921
+	},
+	"24203": {
+		"name": "Inzai",
+		"stateId": 1921
+	},
+	"24204": {
+		"name": "Kamagaya",
+		"stateId": 1921
+	},
+	"24205": {
+		"name": "Kamogawa",
+		"stateId": 1921
+	},
+	"24206": {
+		"name": "Kashiwa",
+		"stateId": 1921
+	},
+	"24207": {
+		"name": "Katsuura",
+		"stateId": 1921
+	},
+	"24208": {
+		"name": "Kimitsu",
+		"stateId": 1921
+	},
+	"24209": {
+		"name": "Kisarazu",
+		"stateId": 1921
+	},
+	"24210": {
+		"name": "Kujukuri",
+		"stateId": 1921
+	},
+	"24211": {
+		"name": "Matsudo",
+		"stateId": 1921
+	},
+	"24212": {
+		"name": "Mobara",
+		"stateId": 1921
+	},
+	"24213": {
+		"name": "Nagareyama",
+		"stateId": 1921
+	},
+	"24214": {
+		"name": "Narashino",
+		"stateId": 1921
+	},
+	"24215": {
+		"name": "Narita",
+		"stateId": 1921
+	},
+	"24216": {
+		"name": "Naruto",
+		"stateId": 1921
+	},
+	"24217": {
+		"name": "Noda",
+		"stateId": 1921
+	},
+	"24218": {
+		"name": "Oamishirasato",
+		"stateId": 1921
+	},
+	"24219": {
+		"name": "Ohara",
+		"stateId": 1921
+	},
+	"24220": {
+		"name": "Omigawa",
+		"stateId": 1921
+	},
+	"24221": {
+		"name": "Sakae",
+		"stateId": 1921
+	},
+	"24222": {
+		"name": "Sakura",
+		"stateId": 1921
+	},
+	"24223": {
+		"name": "Sambu",
+		"stateId": 1921
+	},
+	"24224": {
+		"name": "Sawara",
+		"stateId": 1921
+	},
+	"24225": {
+		"name": "Sekiyado",
+		"stateId": 1921
+	},
+	"24226": {
+		"name": "Shiroi",
+		"stateId": 1921
+	},
+	"24227": {
+		"name": "Shisui",
+		"stateId": 1921
+	},
+	"24228": {
+		"name": "Shonan",
+		"stateId": 1921
+	},
+	"24229": {
+		"name": "Sodegaura",
+		"stateId": 1921
+	},
+	"24230": {
+		"name": "Tateyama",
+		"stateId": 1921
+	},
+	"24231": {
+		"name": "Togane",
+		"stateId": 1921
+	},
+	"24232": {
+		"name": "Tomisato",
+		"stateId": 1921
+	},
+	"24233": {
+		"name": "Urayasu",
+		"stateId": 1921
+	},
+	"24234": {
+		"name": "Yachimata",
+		"stateId": 1921
+	},
+	"24235": {
+		"name": "Yachiyo",
+		"stateId": 1921
+	},
+	"24236": {
+		"name": "Yokaichiba",
+		"stateId": 1921
+	},
+	"24237": {
+		"name": "Yotsukaido",
+		"stateId": 1921
+	},
+	"24238": {
+		"name": "Hojo",
+		"stateId": 1922
+	},
+	"24239": {
+		"name": "Imabari",
+		"stateId": 1922
+	},
+	"24240": {
+		"name": "Iyo",
+		"stateId": 1922
+	},
+	"24241": {
+		"name": "Iyomishima",
+		"stateId": 1922
+	},
+	"24242": {
+		"name": "Kawanoe",
+		"stateId": 1922
+	},
+	"24243": {
+		"name": "Masaki",
+		"stateId": 1922
+	},
+	"24244": {
+		"name": "Matsuyama",
+		"stateId": 1922
+	},
+	"24245": {
+		"name": "Niihama",
+		"stateId": 1922
+	},
+	"24246": {
+		"name": "Ozu",
+		"stateId": 1922
+	},
+	"24247": {
+		"name": "Saijo",
+		"stateId": 1922
+	},
+	"24248": {
+		"name": "Shigenobu",
+		"stateId": 1922
+	},
+	"24249": {
+		"name": "Tobe",
+		"stateId": 1922
+	},
+	"24250": {
+		"name": "Toyo",
+		"stateId": 1922
+	},
+	"24251": {
+		"name": "Uwajima",
+		"stateId": 1922
+	},
+	"24252": {
+		"name": "Yawatahama",
+		"stateId": 1922
+	},
+	"24253": {
+		"name": "Fukui",
+		"stateId": 1923
+	},
+	"24254": {
+		"name": "Harue",
+		"stateId": 1923
+	},
+	"24255": {
+		"name": "Katsuyama",
+		"stateId": 1923
+	},
+	"24256": {
+		"name": "Maruoka",
+		"stateId": 1923
+	},
+	"24257": {
+		"name": "Mikuni",
+		"stateId": 1923
+	},
+	"24258": {
+		"name": "Obama",
+		"stateId": 1923
+	},
+	"24259": {
+		"name": "Ono",
+		"stateId": 1923
+	},
+	"24260": {
+		"name": "Sabae",
+		"stateId": 1923
+	},
+	"24261": {
+		"name": "Takefu",
+		"stateId": 1923
+	},
+	"24262": {
+		"name": "Tsuruga",
+		"stateId": 1923
+	},
+	"24263": {
+		"name": "Amagi",
+		"stateId": 1924
+	},
+	"24264": {
+		"name": "Buzen",
+		"stateId": 1924
+	},
+	"24265": {
+		"name": "Chikugo",
+		"stateId": 1924
+	},
+	"24266": {
+		"name": "Chikushino",
+		"stateId": 1924
+	},
+	"24267": {
+		"name": "Dazaifu",
+		"stateId": 1924
+	},
+	"24268": {
+		"name": "Fukuma",
+		"stateId": 1924
+	},
+	"24269": {
+		"name": "Fukuoka",
+		"stateId": 1924
+	},
+	"24270": {
+		"name": "Hirokawa",
+		"stateId": 1924
+	},
+	"24271": {
+		"name": "Honami",
+		"stateId": 1924
+	},
+	"24272": {
+		"name": "Iizuka",
+		"stateId": 1924
+	},
+	"24273": {
+		"name": "Inatsuki",
+		"stateId": 1924
+	},
+	"24274": {
+		"name": "Kanda",
+		"stateId": 1924
+	},
+	"24275": {
+		"name": "Kasuga",
+		"stateId": 1924
+	},
+	"24276": {
+		"name": "Kasuya",
+		"stateId": 1924
+	},
+	"24277": {
+		"name": "Kawasaki",
+		"stateId": 1924
+	},
+	"24278": {
+		"name": "Kitakyushu",
+		"stateId": 1924
+	},
+	"24279": {
+		"name": "Koga",
+		"stateId": 1924
+	},
+	"24280": {
+		"name": "Kurate",
+		"stateId": 1924
+	},
+	"24281": {
+		"name": "Kurume",
+		"stateId": 1924
+	},
+	"24282": {
+		"name": "Maebaru",
+		"stateId": 1924
+	},
+	"24283": {
+		"name": "Miyata",
+		"stateId": 1924
+	},
+	"24284": {
+		"name": "Mizumaki",
+		"stateId": 1924
+	},
+	"24285": {
+		"name": "Munakata",
+		"stateId": 1924
+	},
+	"24286": {
+		"name": "Nakagawa",
+		"stateId": 1924
+	},
+	"24287": {
+		"name": "Nakama",
+		"stateId": 1924
+	},
+	"24288": {
+		"name": "Nogata",
+		"stateId": 1924
+	},
+	"24289": {
+		"name": "Ogori",
+		"stateId": 1924
+	},
+	"24290": {
+		"name": "Okagaki",
+		"stateId": 1924
+	},
+	"24291": {
+		"name": "Okawa",
+		"stateId": 1924
+	},
+	"24292": {
+		"name": "Omuta",
+		"stateId": 1924
+	},
+	"24293": {
+		"name": "Onojo",
+		"stateId": 1924
+	},
+	"24294": {
+		"name": "Sasaguri",
+		"stateId": 1924
+	},
+	"24295": {
+		"name": "Setaka",
+		"stateId": 1924
+	},
+	"24296": {
+		"name": "Shime",
+		"stateId": 1924
+	},
+	"24297": {
+		"name": "Shingu",
+		"stateId": 1924
+	},
+	"24298": {
+		"name": "Sue",
+		"stateId": 1924
+	},
+	"24299": {
+		"name": "Tagawa",
+		"stateId": 1924
+	},
+	"24300": {
+		"name": "Tanushimaru",
+		"stateId": 1924
+	},
+	"24301": {
+		"name": "Umi",
+		"stateId": 1924
+	},
+	"24302": {
+		"name": "Yamada",
+		"stateId": 1924
+	},
+	"24303": {
+		"name": "Yame",
+		"stateId": 1924
+	},
+	"24304": {
+		"name": "Yanagawa",
+		"stateId": 1924
+	},
+	"24305": {
+		"name": "Yukuhashi",
+		"stateId": 1924
+	},
+	"24306": {
+		"name": "Aizubange",
+		"stateId": 1925
+	},
+	"24307": {
+		"name": "Aizuwakamatsu",
+		"stateId": 1925
+	},
+	"24308": {
+		"name": "Fukushima",
+		"stateId": 1925
+	},
+	"24309": {
+		"name": "Funehiki",
+		"stateId": 1925
+	},
+	"24310": {
+		"name": "Haramachi",
+		"stateId": 1925
+	},
+	"24311": {
+		"name": "Hobara",
+		"stateId": 1925
+	},
+	"24312": {
+		"name": "Inawashiro",
+		"stateId": 1925
+	},
+	"24313": {
+		"name": "Ishikawa",
+		"stateId": 1925
+	},
+	"24314": {
+		"name": "Iwaki",
+		"stateId": 1925
+	},
+	"24315": {
+		"name": "Kawamata",
+		"stateId": 1925
+	},
+	"24316": {
+		"name": "Kitakata",
+		"stateId": 1925
+	},
+	"24317": {
+		"name": "Koriyama",
+		"stateId": 1925
+	},
+	"24318": {
+		"name": "Miharu",
+		"stateId": 1925
+	},
+	"24319": {
+		"name": "Motomiya",
+		"stateId": 1925
+	},
+	"24320": {
+		"name": "Namie",
+		"stateId": 1925
+	},
+	"24321": {
+		"name": "Nihommatsu",
+		"stateId": 1925
+	},
+	"24322": {
+		"name": "Shirakawa",
+		"stateId": 1925
+	},
+	"24323": {
+		"name": "Soma",
+		"stateId": 1925
+	},
+	"24324": {
+		"name": "Sukagawa",
+		"stateId": 1925
+	},
+	"24325": {
+		"name": "Yanagawa",
+		"stateId": 1925
+	},
+	"24326": {
+		"name": "Ena",
+		"stateId": 1926
+	},
+	"24327": {
+		"name": "Gifu",
+		"stateId": 1926
+	},
+	"24328": {
+		"name": "Ginan",
+		"stateId": 1926
+	},
+	"24329": {
+		"name": "Godo",
+		"stateId": 1926
+	},
+	"24330": {
+		"name": "Hashima",
+		"stateId": 1926
+	},
+	"24331": {
+		"name": "Hozumi",
+		"stateId": 1926
+	},
+	"24332": {
+		"name": "Ibigawa",
+		"stateId": 1926
+	},
+	"24333": {
+		"name": "Ikeda",
+		"stateId": 1926
+	},
+	"24334": {
+		"name": "Kakamigahara",
+		"stateId": 1926
+	},
+	"24335": {
+		"name": "Kani",
+		"stateId": 1926
+	},
+	"24336": {
+		"name": "Kasamatsu",
+		"stateId": 1926
+	},
+	"24337": {
+		"name": "Mino",
+		"stateId": 1926
+	},
+	"24338": {
+		"name": "Minokamo",
+		"stateId": 1926
+	},
+	"24339": {
+		"name": "Mitake",
+		"stateId": 1926
+	},
+	"24340": {
+		"name": "Mizunami",
+		"stateId": 1926
+	},
+	"24341": {
+		"name": "Nakatsugawa",
+		"stateId": 1926
+	},
+	"24342": {
+		"name": "Ogaki",
+		"stateId": 1926
+	},
+	"24343": {
+		"name": "Ono",
+		"stateId": 1926
+	},
+	"24344": {
+		"name": "Seki",
+		"stateId": 1926
+	},
+	"24345": {
+		"name": "Tajimi",
+		"stateId": 1926
+	},
+	"24346": {
+		"name": "Takayama",
+		"stateId": 1926
+	},
+	"24347": {
+		"name": "Tarui",
+		"stateId": 1926
+	},
+	"24348": {
+		"name": "Toki",
+		"stateId": 1926
+	},
+	"24349": {
+		"name": "Yoro",
+		"stateId": 1926
+	},
+	"24350": {
+		"name": "Annaka",
+		"stateId": 1927
+	},
+	"24351": {
+		"name": "Azuma",
+		"stateId": 1927
+	},
+	"24352": {
+		"name": "Fujimi",
+		"stateId": 1927
+	},
+	"24353": {
+		"name": "Fujioka",
+		"stateId": 1927
+	},
+	"24354": {
+		"name": "Gumma",
+		"stateId": 1927
+	},
+	"24355": {
+		"name": "Haruna",
+		"stateId": 1927
+	},
+	"24356": {
+		"name": "Isesaki",
+		"stateId": 1927
+	},
+	"24357": {
+		"name": "Kasakake",
+		"stateId": 1927
+	},
+	"24358": {
+		"name": "Kiryu",
+		"stateId": 1927
+	},
+	"24359": {
+		"name": "Maebashi",
+		"stateId": 1927
+	},
+	"24360": {
+		"name": "Nakanojo",
+		"stateId": 1927
+	},
+	"24361": {
+		"name": "Nitta",
+		"stateId": 1927
+	},
+	"24362": {
+		"name": "Numata",
+		"stateId": 1927
+	},
+	"24363": {
+		"name": "Oizumi",
+		"stateId": 1927
+	},
+	"24364": {
+		"name": "Omama",
+		"stateId": 1927
+	},
+	"24365": {
+		"name": "Ora",
+		"stateId": 1927
+	},
+	"24366": {
+		"name": "Ota",
+		"stateId": 1927
+	},
+	"24367": {
+		"name": "Sakai",
+		"stateId": 1927
+	},
+	"24368": {
+		"name": "Shibukawa",
+		"stateId": 1927
+	},
+	"24369": {
+		"name": "Takasaki",
+		"stateId": 1927
+	},
+	"24370": {
+		"name": "Tamamura",
+		"stateId": 1927
+	},
+	"24371": {
+		"name": "Tatebayashi",
+		"stateId": 1927
+	},
+	"24372": {
+		"name": "Tomioka",
+		"stateId": 1927
+	},
+	"24373": {
+		"name": "Yoshii",
+		"stateId": 1927
+	},
+	"24374": {
+		"name": "Fuchu",
+		"stateId": 1928
+	},
+	"24375": {
+		"name": "Fukuyama",
+		"stateId": 1928
+	},
+	"24376": {
+		"name": "Hatsukaichi",
+		"stateId": 1928
+	},
+	"24377": {
+		"name": "Higashihiroshima",
+		"stateId": 1928
+	},
+	"24378": {
+		"name": "Hiroshima",
+		"stateId": 1928
+	},
+	"24379": {
+		"name": "Innoshima",
+		"stateId": 1928
+	},
+	"24380": {
+		"name": "Kaita",
+		"stateId": 1928
+	},
+	"24381": {
+		"name": "Kannabe",
+		"stateId": 1928
+	},
+	"24382": {
+		"name": "Kumano",
+		"stateId": 1928
+	},
+	"24383": {
+		"name": "Kure",
+		"stateId": 1928
+	},
+	"24384": {
+		"name": "Kurose",
+		"stateId": 1928
+	},
+	"24385": {
+		"name": "Mihara",
+		"stateId": 1928
+	},
+	"24386": {
+		"name": "Miyoshi",
+		"stateId": 1928
+	},
+	"24387": {
+		"name": "Ono",
+		"stateId": 1928
+	},
+	"24388": {
+		"name": "Onomichi",
+		"stateId": 1928
+	},
+	"24389": {
+		"name": "Otake",
+		"stateId": 1928
+	},
+	"24390": {
+		"name": "Shinichi",
+		"stateId": 1928
+	},
+	"24391": {
+		"name": "Shobara",
+		"stateId": 1928
+	},
+	"24392": {
+		"name": "Takehara",
+		"stateId": 1928
+	},
+	"24393": {
+		"name": "Abashiri",
+		"stateId": 1929
+	},
+	"24394": {
+		"name": "Akabira",
+		"stateId": 1929
+	},
+	"24395": {
+		"name": "Asahikawa",
+		"stateId": 1929
+	},
+	"24396": {
+		"name": "Ashibetsu",
+		"stateId": 1929
+	},
+	"24397": {
+		"name": "Bibai",
+		"stateId": 1929
+	},
+	"24398": {
+		"name": "Bihoro",
+		"stateId": 1929
+	},
+	"24399": {
+		"name": "Chitose",
+		"stateId": 1929
+	},
+	"24400": {
+		"name": "Date",
+		"stateId": 1929
+	},
+	"24401": {
+		"name": "Ebetsu",
+		"stateId": 1929
+	},
+	"24402": {
+		"name": "Eniwa",
+		"stateId": 1929
+	},
+	"24403": {
+		"name": "Fukagawa",
+		"stateId": 1929
+	},
+	"24404": {
+		"name": "Furano",
+		"stateId": 1929
+	},
+	"24405": {
+		"name": "Hakodate",
+		"stateId": 1929
+	},
+	"24406": {
+		"name": "Hokkaido",
+		"stateId": 1929
+	},
+	"24407": {
+		"name": "Hyogo",
+		"stateId": 1929
+	},
+	"24408": {
+		"name": "Ishikari",
+		"stateId": 1929
+	},
+	"24409": {
+		"name": "Iwamizawa",
+		"stateId": 1929
+	},
+	"24410": {
+		"name": "Iwanai",
+		"stateId": 1929
+	},
+	"24411": {
+		"name": "Kamiiso",
+		"stateId": 1929
+	},
+	"24412": {
+		"name": "Kitahiroshima",
+		"stateId": 1929
+	},
+	"24413": {
+		"name": "Kitami",
+		"stateId": 1929
+	},
+	"24414": {
+		"name": "Kushiro",
+		"stateId": 1929
+	},
+	"24415": {
+		"name": "Makubetsu",
+		"stateId": 1929
+	},
+	"24416": {
+		"name": "Mikasa",
+		"stateId": 1929
+	},
+	"24417": {
+		"name": "Mombetsu",
+		"stateId": 1929
+	},
+	"24418": {
+		"name": "Muroran",
+		"stateId": 1929
+	},
+	"24419": {
+		"name": "Nakashibetsu",
+		"stateId": 1929
+	},
+	"24420": {
+		"name": "Nanae",
+		"stateId": 1929
+	},
+	"24421": {
+		"name": "Nayoro",
+		"stateId": 1929
+	},
+	"24422": {
+		"name": "Nemuro",
+		"stateId": 1929
+	},
+	"24423": {
+		"name": "Noboribetsu",
+		"stateId": 1929
+	},
+	"24424": {
+		"name": "Obihiro",
+		"stateId": 1929
+	},
+	"24425": {
+		"name": "Otaru",
+		"stateId": 1929
+	},
+	"24426": {
+		"name": "Otofuke",
+		"stateId": 1929
+	},
+	"24427": {
+		"name": "Rumoi",
+		"stateId": 1929
+	},
+	"24428": {
+		"name": "Sapporo",
+		"stateId": 1929
+	},
+	"24429": {
+		"name": "Shibetsu",
+		"stateId": 1929
+	},
+	"24430": {
+		"name": "Shiraoi",
+		"stateId": 1929
+	},
+	"24431": {
+		"name": "Shizunai",
+		"stateId": 1929
+	},
+	"24432": {
+		"name": "Sunagawa",
+		"stateId": 1929
+	},
+	"24433": {
+		"name": "Takikawa",
+		"stateId": 1929
+	},
+	"24434": {
+		"name": "Tobetsu",
+		"stateId": 1929
+	},
+	"24435": {
+		"name": "Tomakomai",
+		"stateId": 1929
+	},
+	"24436": {
+		"name": "Utashinai",
+		"stateId": 1929
+	},
+	"24437": {
+		"name": "Wakkanai",
+		"stateId": 1929
+	},
+	"24438": {
+		"name": "Yoichi",
+		"stateId": 1929
+	},
+	"24439": {
+		"name": "Yubari",
+		"stateId": 1929
+	},
+	"24440": {
+		"name": "Aioi",
+		"stateId": 1930
+	},
+	"24441": {
+		"name": "Akashi",
+		"stateId": 1930
+	},
+	"24442": {
+		"name": "Ako",
+		"stateId": 1930
+	},
+	"24443": {
+		"name": "Amagasaki",
+		"stateId": 1930
+	},
+	"24444": {
+		"name": "Ashiya",
+		"stateId": 1930
+	},
+	"24445": {
+		"name": "Fukusaki",
+		"stateId": 1930
+	},
+	"24446": {
+		"name": "Harima",
+		"stateId": 1930
+	},
+	"24447": {
+		"name": "Himeji",
+		"stateId": 1930
+	},
+	"24448": {
+		"name": "Inagawa",
+		"stateId": 1930
+	},
+	"24449": {
+		"name": "Inami",
+		"stateId": 1930
+	},
+	"24450": {
+		"name": "Itami",
+		"stateId": 1930
+	},
+	"24451": {
+		"name": "Kakogawa",
+		"stateId": 1930
+	},
+	"24452": {
+		"name": "Kasai",
+		"stateId": 1930
+	},
+	"24453": {
+		"name": "Kawanishi",
+		"stateId": 1930
+	},
+	"24454": {
+		"name": "Kobe",
+		"stateId": 1930
+	},
+	"24455": {
+		"name": "Kodera",
+		"stateId": 1930
+	},
+	"24456": {
+		"name": "Miki",
+		"stateId": 1930
+	},
+	"24457": {
+		"name": "Nandan",
+		"stateId": 1930
+	},
+	"24458": {
+		"name": "Nishinomiya",
+		"stateId": 1930
+	},
+	"24459": {
+		"name": "Nishiwaki",
+		"stateId": 1930
+	},
+	"24460": {
+		"name": "Ono",
+		"stateId": 1930
+	},
+	"24461": {
+		"name": "Sanda",
+		"stateId": 1930
+	},
+	"24462": {
+		"name": "Sasayama",
+		"stateId": 1930
+	},
+	"24463": {
+		"name": "Sumoto",
+		"stateId": 1930
+	},
+	"24464": {
+		"name": "Taishi",
+		"stateId": 1930
+	},
+	"24465": {
+		"name": "Takarazuka",
+		"stateId": 1930
+	},
+	"24466": {
+		"name": "Takasago",
+		"stateId": 1930
+	},
+	"24467": {
+		"name": "Tatsuno",
+		"stateId": 1930
+	},
+	"24468": {
+		"name": "Toyooka",
+		"stateId": 1930
+	},
+	"24469": {
+		"name": "Yamasaki",
+		"stateId": 1930
+	},
+	"24470": {
+		"name": "Yashiro",
+		"stateId": 1930
+	},
+	"24471": {
+		"name": "Yumesaki",
+		"stateId": 1930
+	},
+	"24472": {
+		"name": "Ami",
+		"stateId": 1931
+	},
+	"24473": {
+		"name": "Chiyoda",
+		"stateId": 1931
+	},
+	"24474": {
+		"name": "Daigo",
+		"stateId": 1931
+	},
+	"24475": {
+		"name": "Edosaki",
+		"stateId": 1931
+	},
+	"24476": {
+		"name": "Fujishiro",
+		"stateId": 1931
+	},
+	"24477": {
+		"name": "Hasaki",
+		"stateId": 1931
+	},
+	"24478": {
+		"name": "Hitachi",
+		"stateId": 1931
+	},
+	"24479": {
+		"name": "Hitachinaka",
+		"stateId": 1931
+	},
+	"24480": {
+		"name": "Hitachiota",
+		"stateId": 1931
+	},
+	"24481": {
+		"name": "Hokota",
+		"stateId": 1931
+	},
+	"24482": {
+		"name": "Ibaraki",
+		"stateId": 1931
+	},
+	"24483": {
+		"name": "Ina",
+		"stateId": 1931
+	},
+	"24484": {
+		"name": "Ishige",
+		"stateId": 1931
+	},
+	"24485": {
+		"name": "Ishioka",
+		"stateId": 1931
+	},
+	"24486": {
+		"name": "Itako",
+		"stateId": 1931
+	},
+	"24487": {
+		"name": "Iwai",
+		"stateId": 1931
+	},
+	"24488": {
+		"name": "Iwase",
+		"stateId": 1931
+	},
+	"24489": {
+		"name": "Kamisu",
+		"stateId": 1931
+	},
+	"24490": {
+		"name": "Kasama",
+		"stateId": 1931
+	},
+	"24491": {
+		"name": "Kashima",
+		"stateId": 1931
+	},
+	"24492": {
+		"name": "Kasumigaura",
+		"stateId": 1931
+	},
+	"24493": {
+		"name": "Kitaibaraki",
+		"stateId": 1931
+	},
+	"24494": {
+		"name": "Koga",
+		"stateId": 1931
+	},
+	"24495": {
+		"name": "Kukizaki",
+		"stateId": 1931
+	},
+	"24496": {
+		"name": "Makabe",
+		"stateId": 1931
+	},
+	"24497": {
+		"name": "Minori",
+		"stateId": 1931
+	},
+	"24498": {
+		"name": "Mito",
+		"stateId": 1931
+	},
+	"24499": {
+		"name": "Mitsukaido",
+		"stateId": 1931
+	},
+	"24500": {
+		"name": "Moriya",
+		"stateId": 1931
+	},
+	"24501": {
+		"name": "Naka",
+		"stateId": 1931
+	},
+	"24502": {
+		"name": "Oarai",
+		"stateId": 1931
+	},
+	"24503": {
+		"name": "Omiya",
+		"stateId": 1931
+	},
+	"24504": {
+		"name": "Ryugasaki",
+		"stateId": 1931
+	},
+	"24505": {
+		"name": "Sakai",
+		"stateId": 1931
+	},
+	"24506": {
+		"name": "Sanwa",
+		"stateId": 1931
+	},
+	"24507": {
+		"name": "Shimodate",
+		"stateId": 1931
+	},
+	"24508": {
+		"name": "Shimotsuma",
+		"stateId": 1931
+	},
+	"24509": {
+		"name": "Sowa",
+		"stateId": 1931
+	},
+	"24510": {
+		"name": "Takahagi",
+		"stateId": 1931
+	},
+	"24511": {
+		"name": "Tokai",
+		"stateId": 1931
+	},
+	"24512": {
+		"name": "Tomobe",
+		"stateId": 1931
+	},
+	"24513": {
+		"name": "Tone",
+		"stateId": 1931
+	},
+	"24514": {
+		"name": "Toride",
+		"stateId": 1931
+	},
+	"24515": {
+		"name": "Tsukuba",
+		"stateId": 1931
+	},
+	"24516": {
+		"name": "Ushiku",
+		"stateId": 1931
+	},
+	"24517": {
+		"name": "Yachiyo",
+		"stateId": 1931
+	},
+	"24518": {
+		"name": "Yasato",
+		"stateId": 1931
+	},
+	"24519": {
+		"name": "Yuki",
+		"stateId": 1931
+	},
+	"24520": {
+		"name": "Hakui",
+		"stateId": 1932
+	},
+	"24521": {
+		"name": "Kaga",
+		"stateId": 1932
+	},
+	"24522": {
+		"name": "Kanazawa",
+		"stateId": 1932
+	},
+	"24523": {
+		"name": "Komatsu",
+		"stateId": 1932
+	},
+	"24524": {
+		"name": "Matto",
+		"stateId": 1932
+	},
+	"24525": {
+		"name": "Nanao",
+		"stateId": 1932
+	},
+	"24526": {
+		"name": "Nonoichi",
+		"stateId": 1932
+	},
+	"24527": {
+		"name": "Suzu",
+		"stateId": 1932
+	},
+	"24528": {
+		"name": "Tsubata",
+		"stateId": 1932
+	},
+	"24529": {
+		"name": "Tsurugi",
+		"stateId": 1932
+	},
+	"24530": {
+		"name": "Uchinada",
+		"stateId": 1932
+	},
+	"24531": {
+		"name": "Wajima",
+		"stateId": 1932
+	},
+	"24532": {
+		"name": "Daito",
+		"stateId": 1933
+	},
+	"24533": {
+		"name": "Esashi",
+		"stateId": 1933
+	},
+	"24534": {
+		"name": "Hanamaki",
+		"stateId": 1933
+	},
+	"24535": {
+		"name": "Ichinohe",
+		"stateId": 1933
+	},
+	"24536": {
+		"name": "Ichinoseki",
+		"stateId": 1933
+	},
+	"24537": {
+		"name": "Iwate",
+		"stateId": 1933
+	},
+	"24538": {
+		"name": "Kamaishi",
+		"stateId": 1933
+	},
+	"24539": {
+		"name": "Kitakami",
+		"stateId": 1933
+	},
+	"24540": {
+		"name": "Kuji",
+		"stateId": 1933
+	},
+	"24541": {
+		"name": "Miyako",
+		"stateId": 1933
+	},
+	"24542": {
+		"name": "Mizusawa",
+		"stateId": 1933
+	},
+	"24543": {
+		"name": "Morioka",
+		"stateId": 1933
+	},
+	"24544": {
+		"name": "Ninohe",
+		"stateId": 1933
+	},
+	"24545": {
+		"name": "Ofunato",
+		"stateId": 1933
+	},
+	"24546": {
+		"name": "Otsuchi",
+		"stateId": 1933
+	},
+	"24547": {
+		"name": "Rikuzentakata",
+		"stateId": 1933
+	},
+	"24548": {
+		"name": "Shiwa",
+		"stateId": 1933
+	},
+	"24549": {
+		"name": "Shizukuishi",
+		"stateId": 1933
+	},
+	"24550": {
+		"name": "Takizawa",
+		"stateId": 1933
+	},
+	"24551": {
+		"name": "Tono",
+		"stateId": 1933
+	},
+	"24552": {
+		"name": "Yahaba",
+		"stateId": 1933
+	},
+	"24553": {
+		"name": "Yamada",
+		"stateId": 1933
+	},
+	"24554": {
+		"name": "Kagawa",
+		"stateId": 1934
+	},
+	"24555": {
+		"name": "Kanonji",
+		"stateId": 1934
+	},
+	"24556": {
+		"name": "Kokubunji",
+		"stateId": 1934
+	},
+	"24557": {
+		"name": "Marugame",
+		"stateId": 1934
+	},
+	"24558": {
+		"name": "Miki",
+		"stateId": 1934
+	},
+	"24559": {
+		"name": "Ryonan",
+		"stateId": 1934
+	},
+	"24560": {
+		"name": "Sakaide",
+		"stateId": 1934
+	},
+	"24561": {
+		"name": "Shido",
+		"stateId": 1934
+	},
+	"24562": {
+		"name": "Tadotsu",
+		"stateId": 1934
+	},
+	"24563": {
+		"name": "Takamatsu",
+		"stateId": 1934
+	},
+	"24564": {
+		"name": "Tonosho",
+		"stateId": 1934
+	},
+	"24565": {
+		"name": "Zentsuji",
+		"stateId": 1934
+	},
+	"24566": {
+		"name": "Aira",
+		"stateId": 1935
+	},
+	"24567": {
+		"name": "Akune",
+		"stateId": 1935
+	},
+	"24568": {
+		"name": "Hayato",
+		"stateId": 1935
+	},
+	"24569": {
+		"name": "Ibusuki",
+		"stateId": 1935
+	},
+	"24570": {
+		"name": "Ijuin",
+		"stateId": 1935
+	},
+	"24571": {
+		"name": "Izumi",
+		"stateId": 1935
+	},
+	"24572": {
+		"name": "Kagoshima",
+		"stateId": 1935
+	},
+	"24573": {
+		"name": "Kajiki",
+		"stateId": 1935
+	},
+	"24574": {
+		"name": "Kanoya",
+		"stateId": 1935
+	},
+	"24575": {
+		"name": "Kaseda",
+		"stateId": 1935
+	},
+	"24576": {
+		"name": "Kokubu",
+		"stateId": 1935
+	},
+	"24577": {
+		"name": "Kushikino",
+		"stateId": 1935
+	},
+	"24578": {
+		"name": "Makurazaki",
+		"stateId": 1935
+	},
+	"24579": {
+		"name": "Naze",
+		"stateId": 1935
+	},
+	"24580": {
+		"name": "Nishinoomote",
+		"stateId": 1935
+	},
+	"24581": {
+		"name": "Okuchi",
+		"stateId": 1935
+	},
+	"24582": {
+		"name": "Sendai",
+		"stateId": 1935
+	},
+	"24583": {
+		"name": "Shibushi",
+		"stateId": 1935
+	},
+	"24584": {
+		"name": "Sueyoshi",
+		"stateId": 1935
+	},
+	"24585": {
+		"name": "Tarumizu",
+		"stateId": 1935
+	},
+	"24586": {
+		"name": "Aikawa",
+		"stateId": 1936
+	},
+	"24587": {
+		"name": "Atsugi",
+		"stateId": 1936
+	},
+	"24588": {
+		"name": "Ayase",
+		"stateId": 1936
+	},
+	"24589": {
+		"name": "Chigasaki",
+		"stateId": 1936
+	},
+	"24590": {
+		"name": "Ebina",
+		"stateId": 1936
+	},
+	"24591": {
+		"name": "Fujisawa",
+		"stateId": 1936
+	},
+	"24592": {
+		"name": "Hadano",
+		"stateId": 1936
+	},
+	"24593": {
+		"name": "Hakone",
+		"stateId": 1936
+	},
+	"24594": {
+		"name": "Hayama",
+		"stateId": 1936
+	},
+	"24595": {
+		"name": "Hiratsuka",
+		"stateId": 1936
+	},
+	"24596": {
+		"name": "Isehara",
+		"stateId": 1936
+	},
+	"24597": {
+		"name": "Kamakura",
+		"stateId": 1936
+	},
+	"24598": {
+		"name": "Kawasaki",
+		"stateId": 1936
+	},
+	"24599": {
+		"name": "Minamiashigara",
+		"stateId": 1936
+	},
+	"24600": {
+		"name": "Miura",
+		"stateId": 1936
+	},
+	"24601": {
+		"name": "Ninomiya",
+		"stateId": 1936
+	},
+	"24602": {
+		"name": "Odawara",
+		"stateId": 1936
+	},
+	"24603": {
+		"name": "Oiso",
+		"stateId": 1936
+	},
+	"24604": {
+		"name": "Sagamihara",
+		"stateId": 1936
+	},
+	"24605": {
+		"name": "Samukawa",
+		"stateId": 1936
+	},
+	"24606": {
+		"name": "Shiroyama",
+		"stateId": 1936
+	},
+	"24607": {
+		"name": "Takatsu-Ku",
+		"stateId": 1936
+	},
+	"24608": {
+		"name": "Tsukui",
+		"stateId": 1936
+	},
+	"24609": {
+		"name": "Yamato",
+		"stateId": 1936
+	},
+	"24610": {
+		"name": "Yokohama",
+		"stateId": 1936
+	},
+	"24611": {
+		"name": "Yokosuka",
+		"stateId": 1936
+	},
+	"24612": {
+		"name": "Yugawara",
+		"stateId": 1936
+	},
+	"24613": {
+		"name": "Zama",
+		"stateId": 1936
+	},
+	"24614": {
+		"name": "Zushi",
+		"stateId": 1936
+	},
+	"24615": {
+		"name": "Gunma",
+		"stateId": 1937
+	},
+	"24616": {
+		"name": "Saitama",
+		"stateId": 1937
+	},
+	"24617": {
+		"name": "Aki",
+		"stateId": 1938
+	},
+	"24618": {
+		"name": "Ino",
+		"stateId": 1938
+	},
+	"24619": {
+		"name": "Kochi",
+		"stateId": 1938
+	},
+	"24620": {
+		"name": "Muroto",
+		"stateId": 1938
+	},
+	"24621": {
+		"name": "Nakamura",
+		"stateId": 1938
+	},
+	"24622": {
+		"name": "Nankoku",
+		"stateId": 1938
+	},
+	"24623": {
+		"name": "Sukumo",
+		"stateId": 1938
+	},
+	"24624": {
+		"name": "Susaki",
+		"stateId": 1938
+	},
+	"24625": {
+		"name": "Tosa",
+		"stateId": 1938
+	},
+	"24626": {
+		"name": "Tosashimizu",
+		"stateId": 1938
+	},
+	"24627": {
+		"name": "Tosayamada",
+		"stateId": 1938
+	},
+	"24628": {
+		"name": "Arao",
+		"stateId": 1939
+	},
+	"24629": {
+		"name": "Ashikita",
+		"stateId": 1939
+	},
+	"24630": {
+		"name": "Aso",
+		"stateId": 1939
+	},
+	"24631": {
+		"name": "Hitoyoshi",
+		"stateId": 1939
+	},
+	"24632": {
+		"name": "Hondo",
+		"stateId": 1939
+	},
+	"24633": {
+		"name": "Jonan",
+		"stateId": 1939
+	},
+	"24634": {
+		"name": "Kikuchi",
+		"stateId": 1939
+	},
+	"24635": {
+		"name": "Kikuyo",
+		"stateId": 1939
+	},
+	"24636": {
+		"name": "Koshi",
+		"stateId": 1939
+	},
+	"24637": {
+		"name": "Kumamoto",
+		"stateId": 1939
+	},
+	"24638": {
+		"name": "Mashiki",
+		"stateId": 1939
+	},
+	"24639": {
+		"name": "Matsubase",
+		"stateId": 1939
+	},
+	"24640": {
+		"name": "Minamata",
+		"stateId": 1939
+	},
+	"24641": {
+		"name": "Nishigoshi",
+		"stateId": 1939
+	},
+	"24642": {
+		"name": "Ozu",
+		"stateId": 1939
+	},
+	"24643": {
+		"name": "Tamana",
+		"stateId": 1939
+	},
+	"24644": {
+		"name": "Ueki",
+		"stateId": 1939
+	},
+	"24645": {
+		"name": "Ushibuka",
+		"stateId": 1939
+	},
+	"24646": {
+		"name": "Uto",
+		"stateId": 1939
+	},
+	"24647": {
+		"name": "Yamaga",
+		"stateId": 1939
+	},
+	"24648": {
+		"name": "Yatsushiro",
+		"stateId": 1939
+	},
+	"24649": {
+		"name": "Ayabe",
+		"stateId": 1940
+	},
+	"24650": {
+		"name": "Fukuchiyama",
+		"stateId": 1940
+	},
+	"24651": {
+		"name": "Joyo",
+		"stateId": 1940
+	},
+	"24652": {
+		"name": "Kameoka",
+		"stateId": 1940
+	},
+	"24653": {
+		"name": "Kizu",
+		"stateId": 1940
+	},
+	"24654": {
+		"name": "Kumiyama",
+		"stateId": 1940
+	},
+	"24655": {
+		"name": "Kyotanabe",
+		"stateId": 1940
+	},
+	"24656": {
+		"name": "Kyoto",
+		"stateId": 1940
+	},
+	"24657": {
+		"name": "Maizuru",
+		"stateId": 1940
+	},
+	"24658": {
+		"name": "Miyazu",
+		"stateId": 1940
+	},
+	"24659": {
+		"name": "Muko",
+		"stateId": 1940
+	},
+	"24660": {
+		"name": "Nagaokakyo",
+		"stateId": 1940
+	},
+	"24661": {
+		"name": "Seika",
+		"stateId": 1940
+	},
+	"24662": {
+		"name": "Uji",
+		"stateId": 1940
+	},
+	"24663": {
+		"name": "Yawata",
+		"stateId": 1940
+	},
+	"24664": {
+		"name": "Ago",
+		"stateId": 1941
+	},
+	"24665": {
+		"name": "Hisai",
+		"stateId": 1941
+	},
+	"24666": {
+		"name": "Ise",
+		"stateId": 1941
+	},
+	"24667": {
+		"name": "Kameyama",
+		"stateId": 1941
+	},
+	"24668": {
+		"name": "Komono",
+		"stateId": 1941
+	},
+	"24669": {
+		"name": "Kumano",
+		"stateId": 1941
+	},
+	"24670": {
+		"name": "Kuwana",
+		"stateId": 1941
+	},
+	"24671": {
+		"name": "Matsusaka",
+		"stateId": 1941
+	},
+	"24672": {
+		"name": "Meiwa",
+		"stateId": 1941
+	},
+	"24673": {
+		"name": "Nabari",
+		"stateId": 1941
+	},
+	"24674": {
+		"name": "Owase",
+		"stateId": 1941
+	},
+	"24675": {
+		"name": "Suzuka",
+		"stateId": 1941
+	},
+	"24676": {
+		"name": "Toba",
+		"stateId": 1941
+	},
+	"24677": {
+		"name": "Toin",
+		"stateId": 1941
+	},
+	"24678": {
+		"name": "Tsu",
+		"stateId": 1941
+	},
+	"24679": {
+		"name": "Ueno",
+		"stateId": 1941
+	},
+	"24680": {
+		"name": "Yokkaichi",
+		"stateId": 1941
+	},
+	"24681": {
+		"name": "Furukawa",
+		"stateId": 1942
+	},
+	"24682": {
+		"name": "Hasama",
+		"stateId": 1942
+	},
+	"24683": {
+		"name": "Ishinomaki",
+		"stateId": 1942
+	},
+	"24684": {
+		"name": "Iwanuma",
+		"stateId": 1942
+	},
+	"24685": {
+		"name": "Kakuda",
+		"stateId": 1942
+	},
+	"24686": {
+		"name": "Kesennuma",
+		"stateId": 1942
+	},
+	"24687": {
+		"name": "Kogota",
+		"stateId": 1942
+	},
+	"24688": {
+		"name": "Marumori",
+		"stateId": 1942
+	},
+	"24689": {
+		"name": "Natori",
+		"stateId": 1942
+	},
+	"24690": {
+		"name": "Ogawara",
+		"stateId": 1942
+	},
+	"24691": {
+		"name": "Rifu",
+		"stateId": 1942
+	},
+	"24692": {
+		"name": "Sendai",
+		"stateId": 1942
+	},
+	"24693": {
+		"name": "Shibata",
+		"stateId": 1942
+	},
+	"24694": {
+		"name": "Shichigahama",
+		"stateId": 1942
+	},
+	"24695": {
+		"name": "Shiogama",
+		"stateId": 1942
+	},
+	"24696": {
+		"name": "Shiroishi",
+		"stateId": 1942
+	},
+	"24697": {
+		"name": "Tagajo",
+		"stateId": 1942
+	},
+	"24698": {
+		"name": "Taiwa",
+		"stateId": 1942
+	},
+	"24699": {
+		"name": "Tomiya",
+		"stateId": 1942
+	},
+	"24700": {
+		"name": "Wakuya",
+		"stateId": 1942
+	},
+	"24701": {
+		"name": "Watari",
+		"stateId": 1942
+	},
+	"24702": {
+		"name": "Yamoto",
+		"stateId": 1942
+	},
+	"24703": {
+		"name": "Ebino",
+		"stateId": 1943
+	},
+	"24704": {
+		"name": "Hyuga",
+		"stateId": 1943
+	},
+	"24705": {
+		"name": "Kiyotake",
+		"stateId": 1943
+	},
+	"24706": {
+		"name": "Kobayashi",
+		"stateId": 1943
+	},
+	"24707": {
+		"name": "Kunitomi",
+		"stateId": 1943
+	},
+	"24708": {
+		"name": "Kushima",
+		"stateId": 1943
+	},
+	"24709": {
+		"name": "Mimata",
+		"stateId": 1943
+	},
+	"24710": {
+		"name": "Miyakonojo",
+		"stateId": 1943
+	},
+	"24711": {
+		"name": "Miyazaki",
+		"stateId": 1943
+	},
+	"24712": {
+		"name": "Nichinan",
+		"stateId": 1943
+	},
+	"24713": {
+		"name": "Nobeoka",
+		"stateId": 1943
+	},
+	"24714": {
+		"name": "Sadowara",
+		"stateId": 1943
+	},
+	"24715": {
+		"name": "Saito",
+		"stateId": 1943
+	},
+	"24716": {
+		"name": "Shintomi",
+		"stateId": 1943
+	},
+	"24717": {
+		"name": "Takanabe",
+		"stateId": 1943
+	},
+	"24718": {
+		"name": "Chino",
+		"stateId": 1944
+	},
+	"24719": {
+		"name": "Hotaka",
+		"stateId": 1944
+	},
+	"24720": {
+		"name": "Iida",
+		"stateId": 1944
+	},
+	"24721": {
+		"name": "Iiyama",
+		"stateId": 1944
+	},
+	"24722": {
+		"name": "Ina",
+		"stateId": 1944
+	},
+	"24723": {
+		"name": "Komagane",
+		"stateId": 1944
+	},
+	"24724": {
+		"name": "Komoro",
+		"stateId": 1944
+	},
+	"24725": {
+		"name": "Koshoku",
+		"stateId": 1944
+	},
+	"24726": {
+		"name": "Maruko",
+		"stateId": 1944
+	},
+	"24727": {
+		"name": "Matsumoto",
+		"stateId": 1944
+	},
+	"24728": {
+		"name": "Minowa",
+		"stateId": 1944
+	},
+	"24729": {
+		"name": "Nagano",
+		"stateId": 1944
+	},
+	"24730": {
+		"name": "Nakano",
+		"stateId": 1944
+	},
+	"24731": {
+		"name": "Okaya",
+		"stateId": 1944
+	},
+	"24732": {
+		"name": "Omachi",
+		"stateId": 1944
+	},
+	"24733": {
+		"name": "Saku",
+		"stateId": 1944
+	},
+	"24734": {
+		"name": "Shimosuwa",
+		"stateId": 1944
+	},
+	"24735": {
+		"name": "Shiojiri",
+		"stateId": 1944
+	},
+	"24736": {
+		"name": "Suwa",
+		"stateId": 1944
+	},
+	"24737": {
+		"name": "Suzaka",
+		"stateId": 1944
+	},
+	"24738": {
+		"name": "Tatsuno",
+		"stateId": 1944
+	},
+	"24739": {
+		"name": "Tobu",
+		"stateId": 1944
+	},
+	"24740": {
+		"name": "Toyoshina",
+		"stateId": 1944
+	},
+	"24741": {
+		"name": "Ueda",
+		"stateId": 1944
+	},
+	"24742": {
+		"name": "Fukue",
+		"stateId": 1945
+	},
+	"24743": {
+		"name": "Hirado",
+		"stateId": 1945
+	},
+	"24744": {
+		"name": "Isahaya",
+		"stateId": 1945
+	},
+	"24745": {
+		"name": "Matsuura",
+		"stateId": 1945
+	},
+	"24746": {
+		"name": "Nagasaki",
+		"stateId": 1945
+	},
+	"24747": {
+		"name": "Nagayo",
+		"stateId": 1945
+	},
+	"24748": {
+		"name": "Omura",
+		"stateId": 1945
+	},
+	"24749": {
+		"name": "Sasebo",
+		"stateId": 1945
+	},
+	"24750": {
+		"name": "Shimabara",
+		"stateId": 1945
+	},
+	"24751": {
+		"name": "Togitsu",
+		"stateId": 1945
+	},
+	"24752": {
+		"name": "Gojo",
+		"stateId": 1946
+	},
+	"24753": {
+		"name": "Gose",
+		"stateId": 1946
+	},
+	"24754": {
+		"name": "Haibara",
+		"stateId": 1946
+	},
+	"24755": {
+		"name": "Heguri",
+		"stateId": 1946
+	},
+	"24756": {
+		"name": "Ikagura",
+		"stateId": 1946
+	},
+	"24757": {
+		"name": "Ikoma",
+		"stateId": 1946
+	},
+	"24758": {
+		"name": "Kammaki",
+		"stateId": 1946
+	},
+	"24759": {
+		"name": "Kashiba",
+		"stateId": 1946
+	},
+	"24760": {
+		"name": "Kashihara",
+		"stateId": 1946
+	},
+	"24761": {
+		"name": "Kawai",
+		"stateId": 1946
+	},
+	"24762": {
+		"name": "Koryo",
+		"stateId": 1946
+	},
+	"24763": {
+		"name": "Nara",
+		"stateId": 1946
+	},
+	"24764": {
+		"name": "Oji",
+		"stateId": 1946
+	},
+	"24765": {
+		"name": "Oyodo",
+		"stateId": 1946
+	},
+	"24766": {
+		"name": "Sakurai",
+		"stateId": 1946
+	},
+	"24767": {
+		"name": "Sango",
+		"stateId": 1946
+	},
+	"24768": {
+		"name": "Tawaramoto",
+		"stateId": 1946
+	},
+	"24769": {
+		"name": "Tenri",
+		"stateId": 1946
+	},
+	"24770": {
+		"name": "Yamatokoriyama",
+		"stateId": 1946
+	},
+	"24771": {
+		"name": "Yamatotakada",
+		"stateId": 1946
+	},
+	"24772": {
+		"name": "Arai",
+		"stateId": 1947
+	},
+	"24773": {
+		"name": "Fuchu",
+		"stateId": 1947
+	},
+	"24774": {
+		"name": "Gosen",
+		"stateId": 1947
+	},
+	"24775": {
+		"name": "Itoigawa",
+		"stateId": 1947
+	},
+	"24776": {
+		"name": "Joetsu",
+		"stateId": 1947
+	},
+	"24777": {
+		"name": "Kameda",
+		"stateId": 1947
+	},
+	"24778": {
+		"name": "Kamo",
+		"stateId": 1947
+	},
+	"24779": {
+		"name": "Kashiwazaki",
+		"stateId": 1947
+	},
+	"24780": {
+		"name": "Kurosaki",
+		"stateId": 1947
+	},
+	"24781": {
+		"name": "Maki",
+		"stateId": 1947
+	},
+	"24782": {
+		"name": "Mitsuke",
+		"stateId": 1947
+	},
+	"24783": {
+		"name": "Muika",
+		"stateId": 1947
+	},
+	"24784": {
+		"name": "Murakami",
+		"stateId": 1947
+	},
+	"24785": {
+		"name": "Muramatsu",
+		"stateId": 1947
+	},
+	"24786": {
+		"name": "Nagaoka",
+		"stateId": 1947
+	},
+	"24787": {
+		"name": "Nakajo",
+		"stateId": 1947
+	},
+	"24788": {
+		"name": "Niigata",
+		"stateId": 1947
+	},
+	"24789": {
+		"name": "Niitsu",
+		"stateId": 1947
+	},
+	"24790": {
+		"name": "Ojiya",
+		"stateId": 1947
+	},
+	"24791": {
+		"name": "Ryotsu",
+		"stateId": 1947
+	},
+	"24792": {
+		"name": "Sanjo",
+		"stateId": 1947
+	},
+	"24793": {
+		"name": "Shibata",
+		"stateId": 1947
+	},
+	"24794": {
+		"name": "Shiozawa",
+		"stateId": 1947
+	},
+	"24795": {
+		"name": "Shirone",
+		"stateId": 1947
+	},
+	"24796": {
+		"name": "Suibara",
+		"stateId": 1947
+	},
+	"24797": {
+		"name": "Tochio",
+		"stateId": 1947
+	},
+	"24798": {
+		"name": "Tokamachi",
+		"stateId": 1947
+	},
+	"24799": {
+		"name": "Toyosaka",
+		"stateId": 1947
+	},
+	"24800": {
+		"name": "Tsubame",
+		"stateId": 1947
+	},
+	"24801": {
+		"name": "Yoshida",
+		"stateId": 1947
+	},
+	"24802": {
+		"name": "Beppu",
+		"stateId": 1948
+	},
+	"24803": {
+		"name": "Bungotakada",
+		"stateId": 1948
+	},
+	"24804": {
+		"name": "Hiji",
+		"stateId": 1948
+	},
+	"24805": {
+		"name": "Hita",
+		"stateId": 1948
+	},
+	"24806": {
+		"name": "Kitsuki",
+		"stateId": 1948
+	},
+	"24807": {
+		"name": "Kusu",
+		"stateId": 1948
+	},
+	"24808": {
+		"name": "Nakatsu",
+		"stateId": 1948
+	},
+	"24809": {
+		"name": "Oita",
+		"stateId": 1948
+	},
+	"24810": {
+		"name": "Saiki",
+		"stateId": 1948
+	},
+	"24811": {
+		"name": "Taketa",
+		"stateId": 1948
+	},
+	"24812": {
+		"name": "Tsukumi",
+		"stateId": 1948
+	},
+	"24813": {
+		"name": "Usa",
+		"stateId": 1948
+	},
+	"24814": {
+		"name": "Usuki",
+		"stateId": 1948
+	},
+	"24815": {
+		"name": "Bizen",
+		"stateId": 1949
+	},
+	"24816": {
+		"name": "Ibara",
+		"stateId": 1949
+	},
+	"24817": {
+		"name": "Kamogata",
+		"stateId": 1949
+	},
+	"24818": {
+		"name": "Kasaoka",
+		"stateId": 1949
+	},
+	"24819": {
+		"name": "Kurashiki",
+		"stateId": 1949
+	},
+	"24820": {
+		"name": "Mabi",
+		"stateId": 1949
+	},
+	"24821": {
+		"name": "Niimi",
+		"stateId": 1949
+	},
+	"24822": {
+		"name": "Okayama",
+		"stateId": 1949
+	},
+	"24823": {
+		"name": "Sanyo",
+		"stateId": 1949
+	},
+	"24824": {
+		"name": "Soja",
+		"stateId": 1949
+	},
+	"24825": {
+		"name": "Takahashi",
+		"stateId": 1949
+	},
+	"24826": {
+		"name": "Tamano",
+		"stateId": 1949
+	},
+	"24827": {
+		"name": "Tsuyama",
+		"stateId": 1949
+	},
+	"24828": {
+		"name": "Chatan",
+		"stateId": 1950
+	},
+	"24829": {
+		"name": "Ginowan",
+		"stateId": 1950
+	},
+	"24830": {
+		"name": "Gushikawa",
+		"stateId": 1950
+	},
+	"24831": {
+		"name": "Haebaru",
+		"stateId": 1950
+	},
+	"24832": {
+		"name": "Hirara",
+		"stateId": 1950
+	},
+	"24833": {
+		"name": "Ishigaki",
+		"stateId": 1950
+	},
+	"24834": {
+		"name": "Ishikawa",
+		"stateId": 1950
+	},
+	"24835": {
+		"name": "Itoman",
+		"stateId": 1950
+	},
+	"24836": {
+		"name": "Nago",
+		"stateId": 1950
+	},
+	"24837": {
+		"name": "Naha",
+		"stateId": 1950
+	},
+	"24838": {
+		"name": "Nishihara",
+		"stateId": 1950
+	},
+	"24839": {
+		"name": "Okinawa",
+		"stateId": 1950
+	},
+	"24840": {
+		"name": "Tomigusuku",
+		"stateId": 1950
+	},
+	"24841": {
+		"name": "Urasoe",
+		"stateId": 1950
+	},
+	"24842": {
+		"name": "Yomitan",
+		"stateId": 1950
+	},
+	"24843": {
+		"name": "Daito",
+		"stateId": 1951
+	},
+	"24844": {
+		"name": "Fujiidera",
+		"stateId": 1951
+	},
+	"24845": {
+		"name": "Habikino",
+		"stateId": 1951
+	},
+	"24846": {
+		"name": "Hannan",
+		"stateId": 1951
+	},
+	"24847": {
+		"name": "Higashiosaka",
+		"stateId": 1951
+	},
+	"24848": {
+		"name": "Hirakata",
+		"stateId": 1951
+	},
+	"24849": {
+		"name": "Ibaraki",
+		"stateId": 1951
+	},
+	"24850": {
+		"name": "Ikeda",
+		"stateId": 1951
+	},
+	"24851": {
+		"name": "Izumi",
+		"stateId": 1951
+	},
+	"24852": {
+		"name": "Izumiotsu",
+		"stateId": 1951
+	},
+	"24853": {
+		"name": "Izumisano",
+		"stateId": 1951
+	},
+	"24854": {
+		"name": "Kadoma",
+		"stateId": 1951
+	},
+	"24855": {
+		"name": "Kaizuka",
+		"stateId": 1951
+	},
+	"24856": {
+		"name": "Kashiwara",
+		"stateId": 1951
+	},
+	"24857": {
+		"name": "Katano",
+		"stateId": 1951
+	},
+	"24858": {
+		"name": "Kawachinagano",
+		"stateId": 1951
+	},
+	"24859": {
+		"name": "Kishiwada",
+		"stateId": 1951
+	},
+	"24860": {
+		"name": "Kobe",
+		"stateId": 1951
+	},
+	"24861": {
+		"name": "Kumatori",
+		"stateId": 1951
+	},
+	"24862": {
+		"name": "Matsubara",
+		"stateId": 1951
+	},
+	"24863": {
+		"name": "Mihara",
+		"stateId": 1951
+	},
+	"24864": {
+		"name": "Mino",
+		"stateId": 1951
+	},
+	"24865": {
+		"name": "Misaki",
+		"stateId": 1951
+	},
+	"24866": {
+		"name": "Moriguchi",
+		"stateId": 1951
+	},
+	"24867": {
+		"name": "Neyagawa",
+		"stateId": 1951
+	},
+	"24868": {
+		"name": "Osaka",
+		"stateId": 1951
+	},
+	"24869": {
+		"name": "Osakasayama",
+		"stateId": 1951
+	},
+	"24870": {
+		"name": "Sakai",
+		"stateId": 1951
+	},
+	"24871": {
+		"name": "Sennan",
+		"stateId": 1951
+	},
+	"24872": {
+		"name": "Settsu",
+		"stateId": 1951
+	},
+	"24873": {
+		"name": "Shijonawate",
+		"stateId": 1951
+	},
+	"24874": {
+		"name": "Shimamoto",
+		"stateId": 1951
+	},
+	"24875": {
+		"name": "Suita",
+		"stateId": 1951
+	},
+	"24876": {
+		"name": "Takaishi",
+		"stateId": 1951
+	},
+	"24877": {
+		"name": "Takatsuki",
+		"stateId": 1951
+	},
+	"24878": {
+		"name": "Tondabayashi",
+		"stateId": 1951
+	},
+	"24879": {
+		"name": "Toyonaka",
+		"stateId": 1951
+	},
+	"24880": {
+		"name": "Toyono",
+		"stateId": 1951
+	},
+	"24881": {
+		"name": "Yao",
+		"stateId": 1951
+	},
+	"24882": {
+		"name": "Imari",
+		"stateId": 1952
+	},
+	"24883": {
+		"name": "Kanzaki",
+		"stateId": 1952
+	},
+	"24884": {
+		"name": "Karatsu",
+		"stateId": 1952
+	},
+	"24885": {
+		"name": "Kashima",
+		"stateId": 1952
+	},
+	"24886": {
+		"name": "Kawasoe",
+		"stateId": 1952
+	},
+	"24887": {
+		"name": "Saga",
+		"stateId": 1952
+	},
+	"24888": {
+		"name": "Takeo",
+		"stateId": 1952
+	},
+	"24889": {
+		"name": "Taku",
+		"stateId": 1952
+	},
+	"24890": {
+		"name": "Tosu",
+		"stateId": 1952
+	},
+	"24891": {
+		"name": "Ureshino",
+		"stateId": 1952
+	},
+	"24892": {
+		"name": "Yamato",
+		"stateId": 1952
+	},
+	"24893": {
+		"name": "Ageo",
+		"stateId": 1953
+	},
+	"24894": {
+		"name": "Asaka",
+		"stateId": 1953
+	},
+	"24895": {
+		"name": "Chichibu",
+		"stateId": 1953
+	},
+	"24896": {
+		"name": "Fujimi",
+		"stateId": 1953
+	},
+	"24897": {
+		"name": "Fukaya",
+		"stateId": 1953
+	},
+	"24898": {
+		"name": "Fukiage",
+		"stateId": 1953
+	},
+	"24899": {
+		"name": "Gyoda",
+		"stateId": 1953
+	},
+	"24900": {
+		"name": "Hanno",
+		"stateId": 1953
+	},
+	"24901": {
+		"name": "Hanyu",
+		"stateId": 1953
+	},
+	"24902": {
+		"name": "Hasuda",
+		"stateId": 1953
+	},
+	"24903": {
+		"name": "Hatogaya",
+		"stateId": 1953
+	},
+	"24904": {
+		"name": "Hatoyama",
+		"stateId": 1953
+	},
+	"24905": {
+		"name": "Hidaka",
+		"stateId": 1953
+	},
+	"24906": {
+		"name": "Higashimatsuyama",
+		"stateId": 1953
+	},
+	"24907": {
+		"name": "Honjo",
+		"stateId": 1953
+	},
+	"24908": {
+		"name": "Ina",
+		"stateId": 1953
+	},
+	"24909": {
+		"name": "Iruma",
+		"stateId": 1953
+	},
+	"24910": {
+		"name": "Iwatsuki",
+		"stateId": 1953
+	},
+	"24911": {
+		"name": "Kamifukuoka",
+		"stateId": 1953
+	},
+	"24912": {
+		"name": "Kamisato",
+		"stateId": 1953
+	},
+	"24913": {
+		"name": "Kasukabe",
+		"stateId": 1953
+	},
+	"24914": {
+		"name": "Kawagoe",
+		"stateId": 1953
+	},
+	"24915": {
+		"name": "Kawaguchi",
+		"stateId": 1953
+	},
+	"24916": {
+		"name": "Kawajima",
+		"stateId": 1953
+	},
+	"24917": {
+		"name": "Kazo",
+		"stateId": 1953
+	},
+	"24918": {
+		"name": "Kisai",
+		"stateId": 1953
+	},
+	"24919": {
+		"name": "Kitamoto",
+		"stateId": 1953
+	},
+	"24920": {
+		"name": "Kodama",
+		"stateId": 1953
+	},
+	"24921": {
+		"name": "Konosu",
+		"stateId": 1953
+	},
+	"24922": {
+		"name": "Koshigaya",
+		"stateId": 1953
+	},
+	"24923": {
+		"name": "Kuki",
+		"stateId": 1953
+	},
+	"24924": {
+		"name": "Kumagaya",
+		"stateId": 1953
+	},
+	"24925": {
+		"name": "Kurihashi",
+		"stateId": 1953
+	},
+	"24926": {
+		"name": "Matsubushi",
+		"stateId": 1953
+	},
+	"24927": {
+		"name": "Menuma",
+		"stateId": 1953
+	},
+	"24928": {
+		"name": "Misato",
+		"stateId": 1953
+	},
+	"24929": {
+		"name": "Miyashiro",
+		"stateId": 1953
+	},
+	"24930": {
+		"name": "Miyoshi",
+		"stateId": 1953
+	},
+	"24931": {
+		"name": "Moroyama",
+		"stateId": 1953
+	},
+	"24932": {
+		"name": "Niiza",
+		"stateId": 1953
+	},
+	"24933": {
+		"name": "Ogawa",
+		"stateId": 1953
+	},
+	"24934": {
+		"name": "Oi",
+		"stateId": 1953
+	},
+	"24935": {
+		"name": "Okegawa",
+		"stateId": 1953
+	},
+	"24936": {
+		"name": "Omiya",
+		"stateId": 1953
+	},
+	"24937": {
+		"name": "Saitma-Shi",
+		"stateId": 1953
+	},
+	"24938": {
+		"name": "Sakado",
+		"stateId": 1953
+	},
+	"24939": {
+		"name": "Satte",
+		"stateId": 1953
+	},
+	"24940": {
+		"name": "Sayama",
+		"stateId": 1953
+	},
+	"24941": {
+		"name": "Shiki",
+		"stateId": 1953
+	},
+	"24942": {
+		"name": "Shiraoka",
+		"stateId": 1953
+	},
+	"24943": {
+		"name": "Shobu",
+		"stateId": 1953
+	},
+	"24944": {
+		"name": "Showa",
+		"stateId": 1953
+	},
+	"24945": {
+		"name": "Soka",
+		"stateId": 1953
+	},
+	"24946": {
+		"name": "Sugito",
+		"stateId": 1953
+	},
+	"24947": {
+		"name": "Toda",
+		"stateId": 1953
+	},
+	"24948": {
+		"name": "Tokorozawa",
+		"stateId": 1953
+	},
+	"24949": {
+		"name": "Tsurugashima",
+		"stateId": 1953
+	},
+	"24950": {
+		"name": "Urawa",
+		"stateId": 1953
+	},
+	"24951": {
+		"name": "Wako",
+		"stateId": 1953
+	},
+	"24952": {
+		"name": "Warabi",
+		"stateId": 1953
+	},
+	"24953": {
+		"name": "Washimiya",
+		"stateId": 1953
+	},
+	"24954": {
+		"name": "Yashio",
+		"stateId": 1953
+	},
+	"24955": {
+		"name": "Yono",
+		"stateId": 1953
+	},
+	"24956": {
+		"name": "Yorii",
+		"stateId": 1953
+	},
+	"24957": {
+		"name": "Yoshikawa",
+		"stateId": 1953
+	},
+	"24958": {
+		"name": "Yoshimi",
+		"stateId": 1953
+	},
+	"24959": {
+		"name": "Hikone",
+		"stateId": 1954
+	},
+	"24960": {
+		"name": "Hino",
+		"stateId": 1954
+	},
+	"24961": {
+		"name": "Konan",
+		"stateId": 1954
+	},
+	"24962": {
+		"name": "Kosei",
+		"stateId": 1954
+	},
+	"24963": {
+		"name": "Kusatsu",
+		"stateId": 1954
+	},
+	"24964": {
+		"name": "Minakuchi",
+		"stateId": 1954
+	},
+	"24965": {
+		"name": "Moriyama",
+		"stateId": 1954
+	},
+	"24966": {
+		"name": "Nagahama",
+		"stateId": 1954
+	},
+	"24967": {
+		"name": "Notogawa",
+		"stateId": 1954
+	},
+	"24968": {
+		"name": "Omihachiman",
+		"stateId": 1954
+	},
+	"24969": {
+		"name": "Otsu",
+		"stateId": 1954
+	},
+	"24970": {
+		"name": "Ritto",
+		"stateId": 1954
+	},
+	"24971": {
+		"name": "Shiga",
+		"stateId": 1954
+	},
+	"24972": {
+		"name": "Yasu",
+		"stateId": 1954
+	},
+	"24973": {
+		"name": "Yokaichi",
+		"stateId": 1954
+	},
+	"24974": {
+		"name": "Gotsu",
+		"stateId": 1955
+	},
+	"24975": {
+		"name": "Hamada",
+		"stateId": 1955
+	},
+	"24976": {
+		"name": "Hikawa",
+		"stateId": 1955
+	},
+	"24977": {
+		"name": "Hirata",
+		"stateId": 1955
+	},
+	"24978": {
+		"name": "Izumo",
+		"stateId": 1955
+	},
+	"24979": {
+		"name": "Masuda",
+		"stateId": 1955
+	},
+	"24980": {
+		"name": "Matsue",
+		"stateId": 1955
+	},
+	"24981": {
+		"name": "Oda",
+		"stateId": 1955
+	},
+	"24982": {
+		"name": "Yasugi",
+		"stateId": 1955
+	},
+	"24983": {
+		"name": "Asaba",
+		"stateId": 1956
+	},
+	"24984": {
+		"name": "Atami",
+		"stateId": 1956
+	},
+	"24985": {
+		"name": "Daito",
+		"stateId": 1956
+	},
+	"24986": {
+		"name": "Fuji",
+		"stateId": 1956
+	},
+	"24987": {
+		"name": "Fujieda",
+		"stateId": 1956
+	},
+	"24988": {
+		"name": "Fujinomiya",
+		"stateId": 1956
+	},
+	"24989": {
+		"name": "Fukuroi",
+		"stateId": 1956
+	},
+	"24990": {
+		"name": "Gotemba",
+		"stateId": 1956
+	},
+	"24991": {
+		"name": "Haibara",
+		"stateId": 1956
+	},
+	"24992": {
+		"name": "Hamakita",
+		"stateId": 1956
+	},
+	"24993": {
+		"name": "Hamamatsu",
+		"stateId": 1956
+	},
+	"24994": {
+		"name": "Hamaoka",
+		"stateId": 1956
+	},
+	"24995": {
+		"name": "Hosoe",
+		"stateId": 1956
+	},
+	"24996": {
+		"name": "Ito",
+		"stateId": 1956
+	},
+	"24997": {
+		"name": "Iwata",
+		"stateId": 1956
+	},
+	"24998": {
+		"name": "Kakegawa",
+		"stateId": 1956
+	},
+	"24999": {
+		"name": "Kanaya",
+		"stateId": 1956
+	},
+	"25000": {
+		"name": "Kannami",
+		"stateId": 1956
+	},
+	"25001": {
+		"name": "Kikugawa",
+		"stateId": 1956
+	},
+	"25002": {
+		"name": "Kosai",
+		"stateId": 1956
+	},
+	"25003": {
+		"name": "Mishima",
+		"stateId": 1956
+	},
+	"25004": {
+		"name": "Mori",
+		"stateId": 1956
+	},
+	"25005": {
+		"name": "Nagaizumi",
+		"stateId": 1956
+	},
+	"25006": {
+		"name": "Numazu",
+		"stateId": 1956
+	},
+	"25007": {
+		"name": "Oigawa",
+		"stateId": 1956
+	},
+	"25008": {
+		"name": "Oyama",
+		"stateId": 1956
+	},
+	"25009": {
+		"name": "Ryuyo",
+		"stateId": 1956
+	},
+	"25010": {
+		"name": "Sagara",
+		"stateId": 1956
+	},
+	"25011": {
+		"name": "Shimada",
+		"stateId": 1956
+	},
+	"25012": {
+		"name": "Shimizu",
+		"stateId": 1956
+	},
+	"25013": {
+		"name": "Shimoda",
+		"stateId": 1956
+	},
+	"25014": {
+		"name": "Shizuoka",
+		"stateId": 1956
+	},
+	"25015": {
+		"name": "Susono",
+		"stateId": 1956
+	},
+	"25016": {
+		"name": "Tenryu",
+		"stateId": 1956
+	},
+	"25017": {
+		"name": "Toyoda",
+		"stateId": 1956
+	},
+	"25018": {
+		"name": "Yaizu",
+		"stateId": 1956
+	},
+	"25019": {
+		"name": "Yoshida",
+		"stateId": 1956
+	},
+	"25020": {
+		"name": "Ashikaga",
+		"stateId": 1957
+	},
+	"25021": {
+		"name": "Fujioka",
+		"stateId": 1957
+	},
+	"25022": {
+		"name": "Imaichi",
+		"stateId": 1957
+	},
+	"25023": {
+		"name": "Iwafune",
+		"stateId": 1957
+	},
+	"25024": {
+		"name": "Kaminokawa",
+		"stateId": 1957
+	},
+	"25025": {
+		"name": "Kanuma",
+		"stateId": 1957
+	},
+	"25026": {
+		"name": "Karasuyama",
+		"stateId": 1957
+	},
+	"25027": {
+		"name": "Kawachi",
+		"stateId": 1957
+	},
+	"25028": {
+		"name": "Kuroiso",
+		"stateId": 1957
+	},
+	"25029": {
+		"name": "Mashiko",
+		"stateId": 1957
+	},
+	"25030": {
+		"name": "Mibu",
+		"stateId": 1957
+	},
+	"25031": {
+		"name": "Minamikawachi",
+		"stateId": 1957
+	},
+	"25032": {
+		"name": "Moka",
+		"stateId": 1957
+	},
+	"25033": {
+		"name": "Motegi",
+		"stateId": 1957
+	},
+	"25034": {
+		"name": "Nasu",
+		"stateId": 1957
+	},
+	"25035": {
+		"name": "Nikko",
+		"stateId": 1957
+	},
+	"25036": {
+		"name": "Nishinasuno",
+		"stateId": 1957
+	},
+	"25037": {
+		"name": "Nogi",
+		"stateId": 1957
+	},
+	"25038": {
+		"name": "Ohira",
+		"stateId": 1957
+	},
+	"25039": {
+		"name": "Otawara",
+		"stateId": 1957
+	},
+	"25040": {
+		"name": "Oyama",
+		"stateId": 1957
+	},
+	"25041": {
+		"name": "Sano",
+		"stateId": 1957
+	},
+	"25042": {
+		"name": "Takanezawa",
+		"stateId": 1957
+	},
+	"25043": {
+		"name": "Tanuma",
+		"stateId": 1957
+	},
+	"25044": {
+		"name": "Tochigi",
+		"stateId": 1957
+	},
+	"25045": {
+		"name": "Ujiie",
+		"stateId": 1957
+	},
+	"25046": {
+		"name": "Utsunomiya",
+		"stateId": 1957
+	},
+	"25047": {
+		"name": "Yaita",
+		"stateId": 1957
+	},
+	"25048": {
+		"name": "Aizumi",
+		"stateId": 1958
+	},
+	"25049": {
+		"name": "Anan",
+		"stateId": 1958
+	},
+	"25050": {
+		"name": "Ikeda",
+		"stateId": 1958
+	},
+	"25051": {
+		"name": "Ishii",
+		"stateId": 1958
+	},
+	"25052": {
+		"name": "Kamojima",
+		"stateId": 1958
+	},
+	"25053": {
+		"name": "Kitajima",
+		"stateId": 1958
+	},
+	"25054": {
+		"name": "Komatsushima",
+		"stateId": 1958
+	},
+	"25055": {
+		"name": "Naruto",
+		"stateId": 1958
+	},
+	"25056": {
+		"name": "Tokushima",
+		"stateId": 1958
+	},
+	"25057": {
+		"name": "Waki",
+		"stateId": 1958
+	},
+	"25058": {
+		"name": "Akiruno",
+		"stateId": 1959
+	},
+	"25059": {
+		"name": "Akishima",
+		"stateId": 1959
+	},
+	"25060": {
+		"name": "Chofu",
+		"stateId": 1959
+	},
+	"25061": {
+		"name": "Fuchu",
+		"stateId": 1959
+	},
+	"25062": {
+		"name": "Hachioji",
+		"stateId": 1959
+	},
+	"25063": {
+		"name": "Hamura",
+		"stateId": 1959
+	},
+	"25064": {
+		"name": "Higashikurume",
+		"stateId": 1959
+	},
+	"25065": {
+		"name": "Higashimurayama",
+		"stateId": 1959
+	},
+	"25066": {
+		"name": "Higashiyamato",
+		"stateId": 1959
+	},
+	"25067": {
+		"name": "Hino",
+		"stateId": 1959
+	},
+	"25068": {
+		"name": "Hoya",
+		"stateId": 1959
+	},
+	"25069": {
+		"name": "Inagi",
+		"stateId": 1959
+	},
+	"25070": {
+		"name": "Kiyose",
+		"stateId": 1959
+	},
+	"25071": {
+		"name": "Kodaira",
+		"stateId": 1959
+	},
+	"25072": {
+		"name": "Koganei",
+		"stateId": 1959
+	},
+	"25073": {
+		"name": "Kokubunji",
+		"stateId": 1959
+	},
+	"25074": {
+		"name": "Komae",
+		"stateId": 1959
+	},
+	"25075": {
+		"name": "Kunitachi",
+		"stateId": 1959
+	},
+	"25076": {
+		"name": "Machida",
+		"stateId": 1959
+	},
+	"25077": {
+		"name": "Mitaka",
+		"stateId": 1959
+	},
+	"25078": {
+		"name": "Mizuho",
+		"stateId": 1959
+	},
+	"25079": {
+		"name": "Musashimurayama",
+		"stateId": 1959
+	},
+	"25080": {
+		"name": "Musashino",
+		"stateId": 1959
+	},
+	"25081": {
+		"name": "Ome",
+		"stateId": 1959
+	},
+	"25082": {
+		"name": "Tachikawa",
+		"stateId": 1959
+	},
+	"25083": {
+		"name": "Tama",
+		"stateId": 1959
+	},
+	"25084": {
+		"name": "Tanashi",
+		"stateId": 1959
+	},
+	"25085": {
+		"name": "Tokyo",
+		"stateId": 1959
+	},
+	"25086": {
+		"name": "Kurayoshi",
+		"stateId": 1960
+	},
+	"25087": {
+		"name": "Sakaiminato",
+		"stateId": 1960
+	},
+	"25088": {
+		"name": "Tottori",
+		"stateId": 1960
+	},
+	"25089": {
+		"name": "Yonago",
+		"stateId": 1960
+	},
+	"25090": {
+		"name": "Fukumitsu",
+		"stateId": 1961
+	},
+	"25091": {
+		"name": "Himi",
+		"stateId": 1961
+	},
+	"25092": {
+		"name": "Kamiichi",
+		"stateId": 1961
+	},
+	"25093": {
+		"name": "Kosugi",
+		"stateId": 1961
+	},
+	"25094": {
+		"name": "Kurobe",
+		"stateId": 1961
+	},
+	"25095": {
+		"name": "Namerikawa",
+		"stateId": 1961
+	},
+	"25096": {
+		"name": "Nyuzen",
+		"stateId": 1961
+	},
+	"25097": {
+		"name": "Osawano",
+		"stateId": 1961
+	},
+	"25098": {
+		"name": "Oyabe",
+		"stateId": 1961
+	},
+	"25099": {
+		"name": "Shimminato",
+		"stateId": 1961
+	},
+	"25100": {
+		"name": "Takaoka",
+		"stateId": 1961
+	},
+	"25101": {
+		"name": "Tateyama",
+		"stateId": 1961
+	},
+	"25102": {
+		"name": "Tonami",
+		"stateId": 1961
+	},
+	"25103": {
+		"name": "Toyama",
+		"stateId": 1961
+	},
+	"25104": {
+		"name": "Uozu",
+		"stateId": 1961
+	},
+	"25105": {
+		"name": "Yatsuo",
+		"stateId": 1961
+	},
+	"25106": {
+		"name": "Arida",
+		"stateId": 1962
+	},
+	"25107": {
+		"name": "Gobo",
+		"stateId": 1962
+	},
+	"25108": {
+		"name": "Hashimoto",
+		"stateId": 1962
+	},
+	"25109": {
+		"name": "Iwade",
+		"stateId": 1962
+	},
+	"25110": {
+		"name": "Kainan",
+		"stateId": 1962
+	},
+	"25111": {
+		"name": "Katsuragi",
+		"stateId": 1962
+	},
+	"25112": {
+		"name": "Kishigawa",
+		"stateId": 1962
+	},
+	"25113": {
+		"name": "Nachikatsuura",
+		"stateId": 1962
+	},
+	"25114": {
+		"name": "Shingu",
+		"stateId": 1962
+	},
+	"25115": {
+		"name": "Tanabe",
+		"stateId": 1962
+	},
+	"25116": {
+		"name": "Wakayama",
+		"stateId": 1962
+	},
+	"25117": {
+		"name": "Higashine",
+		"stateId": 1963
+	},
+	"25118": {
+		"name": "Kahoku",
+		"stateId": 1963
+	},
+	"25119": {
+		"name": "Kaminoyama",
+		"stateId": 1963
+	},
+	"25120": {
+		"name": "Kawanishi",
+		"stateId": 1963
+	},
+	"25121": {
+		"name": "Murayama",
+		"stateId": 1963
+	},
+	"25122": {
+		"name": "Nagai",
+		"stateId": 1963
+	},
+	"25123": {
+		"name": "Nanyo",
+		"stateId": 1963
+	},
+	"25124": {
+		"name": "Obanazawa",
+		"stateId": 1963
+	},
+	"25125": {
+		"name": "Sagae",
+		"stateId": 1963
+	},
+	"25126": {
+		"name": "Sakata",
+		"stateId": 1963
+	},
+	"25127": {
+		"name": "Shinjo",
+		"stateId": 1963
+	},
+	"25128": {
+		"name": "Takahata",
+		"stateId": 1963
+	},
+	"25129": {
+		"name": "Tendo",
+		"stateId": 1963
+	},
+	"25130": {
+		"name": "Tsuchiura",
+		"stateId": 1963
+	},
+	"25131": {
+		"name": "Tsuruoka",
+		"stateId": 1963
+	},
+	"25132": {
+		"name": "Yamagata",
+		"stateId": 1963
+	},
+	"25133": {
+		"name": "Yonezawa",
+		"stateId": 1963
+	},
+	"25134": {
+		"name": "Yuza",
+		"stateId": 1963
+	},
+	"25135": {
+		"name": "Hagi",
+		"stateId": 1964
+	},
+	"25136": {
+		"name": "Hikari",
+		"stateId": 1964
+	},
+	"25137": {
+		"name": "Hofu",
+		"stateId": 1964
+	},
+	"25138": {
+		"name": "Iwakuni",
+		"stateId": 1964
+	},
+	"25139": {
+		"name": "Kudamatsu",
+		"stateId": 1964
+	},
+	"25140": {
+		"name": "Mine",
+		"stateId": 1964
+	},
+	"25141": {
+		"name": "Nagato",
+		"stateId": 1964
+	},
+	"25142": {
+		"name": "Ogori",
+		"stateId": 1964
+	},
+	"25143": {
+		"name": "Onoda",
+		"stateId": 1964
+	},
+	"25144": {
+		"name": "Sanyo",
+		"stateId": 1964
+	},
+	"25145": {
+		"name": "Shimonoseki",
+		"stateId": 1964
+	},
+	"25146": {
+		"name": "Shinnanyo",
+		"stateId": 1964
+	},
+	"25147": {
+		"name": "Tokuyama",
+		"stateId": 1964
+	},
+	"25148": {
+		"name": "Toyoura",
+		"stateId": 1964
+	},
+	"25149": {
+		"name": "Ube",
+		"stateId": 1964
+	},
+	"25150": {
+		"name": "Yamaguchi",
+		"stateId": 1964
+	},
+	"25151": {
+		"name": "Yanai",
+		"stateId": 1964
+	},
+	"25152": {
+		"name": "Enzan",
+		"stateId": 1965
+	},
+	"25153": {
+		"name": "Fujiyoshida",
+		"stateId": 1965
+	},
+	"25154": {
+		"name": "Isawa",
+		"stateId": 1965
+	},
+	"25155": {
+		"name": "Kofu",
+		"stateId": 1965
+	},
+	"25156": {
+		"name": "Nirasaki",
+		"stateId": 1965
+	},
+	"25157": {
+		"name": "Otsuki",
+		"stateId": 1965
+	},
+	"25158": {
+		"name": "Ryuo",
+		"stateId": 1965
+	},
+	"25159": {
+		"name": "Tsuru",
+		"stateId": 1965
+	},
+	"25160": {
+		"name": "Uenohara",
+		"stateId": 1965
+	},
+	"25161": {
+		"name": "Yamanashi",
+		"stateId": 1965
+	}
+}

@@ -1,0 +1,15 @@
+extends ../../layout.pug
+
+block content
+	h1 Users
+
+	mixin userItem(user)
+		div
+		a(href="/cms/secure/user/" + user.id) #{user.email}
+
+	for user in users
+		+userItem(user)
+
+	br
+	br
+	a(href="/cms/secure/user/create") Add new user

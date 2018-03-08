@@ -1,0 +1,42 @@
+{
+	"1": {
+		"name": "Food",
+		"parents": [],
+		"children": [2]
+	},
+	"2": {
+		"name": "Wine",
+		"parents": [1],
+		"children": [3]
+	},
+	"3": {
+		"name": "French wine",
+		"parents": [2],
+		"children": []
+	},
+	"4": {
+		"name": "Sports",
+		"parents": [],
+		"children": [5]
+	},
+	"5": {
+		"name": "Soccer",
+		"parents": [4],
+		"children": []
+	},
+	"6": {
+		"name": "Culture",
+		"parents": [],
+		"children": [7, 8]
+	},
+	"7": {
+		"name": "Anime",
+		"parents": [6],
+		"children": []
+	},
+	"8": {
+		"name": "Tea ceremony",
+		"parents": [6],
+		"children": []
+	}
+}

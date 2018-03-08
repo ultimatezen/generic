@@ -1,0 +1,18 @@
+extends ../../layout.pug
+
+block content
+	h1 Register reservation
+
+	form(action='/cms/secure/reservation', method="POST")
+		.form-group
+			input(type="number", class="form-control", name="userId", placeholder="userId")
+		.form-group
+			input(type="number", class="form-control", name="planId", placeholder="planId")
+		.form-group
+			input(type="number", class="form-control", name="guideId", placeholder="guideId")
+		.form-group
+			input(type="number", class="form-control", name="status", placeholder="status")
+		.form-group
+			input(type="submit", class="btn btn-primary", value="submit")
+	each message in errors
+		h4(style="color: red;") #{message}

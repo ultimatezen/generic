@@ -1,0 +1,13 @@
+extends ../../layout.pug
+
+block content
+	h1 Guide Detail
+
+	li username #{username}
+	li firstname #{firstname}
+	li lastname #{lastname}
+	li status #{status}
+
+	form(action="/cms/secure/guide/" + id + "/delete", method="POST")
+		.form-group
+			input(type="submit", class="btn btn-primary", value="delete")

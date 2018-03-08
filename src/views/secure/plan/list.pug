@@ -1,0 +1,15 @@
+extends ../../layout.pug
+
+block content
+	h1 Plans
+
+	mixin planItem(plan)
+		div
+		a(href="/cms/secure/plan/" + plan.id) #{plan.name}
+
+	for plan in plans
+		+planItem(plan)
+
+	br
+	br
+	a(href="/cms/secure/plan/create") Add new plan

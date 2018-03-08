@@ -1,0 +1,24 @@
+extends ../../layout.pug
+
+block content
+	h1 Register guide
+
+	form(action='/cms/secure/guide', method="POST")
+		.form-group
+			input(type="email", class="form-control", name="email", placeholder="email")
+		.form-group
+			input(type="input", class="form-control", name="username", placeholder="username")
+		.form-group
+			input(type="input", class="form-control", name="firstname", placeholder="firstname")
+		.form-group
+			input(type="input", class="form-control", name="lastname", placeholder="lastname")
+		.form-group
+			input(type="input", class="form-control", name="sex", placeholder="sex")
+		.form-group
+			input(type="date", class="form-control", name="birthdate", placeholder="birthdate")
+		.form-group
+			input(type="password", class="form-control", name="password", placeholder="password")
+		.form-group
+			input(type="submit", class="btn btn-primary", value="submit")
+	each message in errors
+		h4(style="color: red;") #{message}

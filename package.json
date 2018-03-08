@@ -1,0 +1,67 @@
+{
+	"name": "generic",
+	"version": "0.0.2",
+	"description": "Generic Web Backend Server.",
+	"private": true,
+	"main": "dist",
+	"scripts": {
+		"dev": "nodemon -w src --exec \"babel-node src --presets es2015,stage-0\"",
+		"build": "babel src -s -D -d dist --presets es2015,stage-0",
+		"start": "npm build && node dist",
+		"prestart": "npm run -s build",
+		"test": "eslint src",
+		"db-migrate": "node node_modules/sequelize-cli/bin/sequelize db:migrate --config config/db.js",
+		"deploy-test": "./scripts/deploy-test.sh"
+	},
+	"eslintConfig": {
+		"extends": "eslint:recommended",
+		"parserOptions": {
+			"ecmaVersion": 7,
+			"sourceType": "module"
+		},
+		"env": {
+			"node": true
+		},
+		"rules": {
+			"no-console": 0,
+			"no-unused-vars": 1
+		}
+	},
+	"repository": "generic",
+	"author": "Tien Le <github@ultimatezen>",
+	"dependencies": {
+		"bcrypt": "^1.0.2",
+		"body-parser": "^1.13.3",
+		"bootstrap": "3",
+		"compression": "^1.5.2",
+		"connect-flash": "^0.1.1",
+		"cookie-parser": "^1.4.3",
+		"cors": "^2.7.1",
+		"dotenv": "4.0.0",
+		"express": "^4.13.3",
+		"express-oauth-server": "^2.0.0-b1",
+		"express-session": "^1.15.1",
+		"jsonwebtoken": "^7.3.0",
+		"less-middleware": "^2.2.0",
+		"morgan": "^1.8.0",
+		"mysql": "^2.13.0",
+		"passport": "0.3.2",
+		"passport-jwt": "^2.2.1",
+		"passport-local": "1.0.0",
+		"pug": "^2.0.0-beta11",
+		"resource-router-middleware": "^0.6.0",
+		"sequelize": "^3.30.2"
+	},
+	"devDependencies": {
+		"babel-cli": "^6.24.0",
+		"babel-core": "^6.9.0",
+		"babel-eslint": "^7.1.1",
+		"babel-preset-es2015": "^6.9.0",
+		"babel-preset-stage-0": "^6.5.0",
+		"db-migrate-sqlite3": "^0.2.1",
+		"eslint": "^3.1.1",
+		"nodemon": "^1.11.0",
+		"sequelize-cli": "^2.5.1",
+		"sqlite3": "^3.1.8"
+	}
+}

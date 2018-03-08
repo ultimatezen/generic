@@ -1,0 +1,13 @@
+extends ../../layout.pug
+
+block content
+	h1 Reservation Detail
+
+	li userId #{userId}
+	li planId #{planId}
+	li guideId #{guideId}
+	li status #{status}
+
+	form(action="/cms/secure/reservation/" + id + "/delete", method="POST")
+		.form-group
+			input(type="submit", class="btn btn-primary", value="delete")

@@ -1,0 +1,20 @@
+extends ../layout.pug
+
+block content
+	h1 Register your information
+
+	form(action='/cms/signup', method="POST")
+		.form-group
+			input(type="email", class="form-control", name="email", placeholder="email")
+		.form-group
+			input(type="input", class="form-control", name="username", placeholder="Optional: username")
+		.form-group
+			input(type="input", class="form-control", name="name", placeholder="Optional: name")
+		.form-group
+			input(type="password", class="form-control", name="password", placeholder="password")
+		.form-group
+			input(type="submit", class="btn btn-primary", value="submit")
+
+	each message in flash
+		h4(style="color: red;") #{message}
+

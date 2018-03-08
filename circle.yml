@@ -1,0 +1,23 @@
+machine:
+  node:
+    version:
+      6.10.1
+  services:
+    - docker
+checkout:
+  post:
+    - chmod +x ./scripts/deploy-test.sh
+
+dependencies:
+  post:
+    - docker build -t $AWS_ACCOUNT_ID.dkr.ecr.ap-northeast-1.amazonaws.com/generic/server:$CIRCLE_SHA1 .
+
+test:
+  override:
+    - npm test
+
+deployment:
+  test:
+    branch: test
+    commands:
+      - npm run deploy-test

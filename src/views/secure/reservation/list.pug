@@ -1,0 +1,15 @@
+extends ../../layout.pug
+
+block content
+	h1 Reservations
+
+	mixin reservationItem(reservation)
+		div
+		a(href="/cms/secure/reservation/" + reservation.id) #{reservation.id}
+
+	for reservation in reservations
+		+reservationItem(reservation)
+
+	br
+	br
+	a(href="/cms/secure/reservation/create") Add new reservation

@@ -1,0 +1,15 @@
+extends ../../layout.pug
+block content
+	h1 #{title}
+	p Navigate to
+		ul
+			li: a(href="/cms/") Welcome page
+			li: a(href="/cms/logout") Logout
+
+	
+	h2 user information
+	ul
+		li email: #{email}
+		li username: #{username}
+		li name: #{name}
+		

@@ -1,0 +1,14 @@
+extends ../layout.pug
+
+block content
+	h1 #{title}
+	form(method='post', action="/cms/login")
+		p
+			label(for='username') Username
+			input(type='text', name='username')
+		p
+			label(for='password') Password
+			input(type='password', name='password')
+		input(type='submit')
+	each message in flash
+		h4(style="color: red;") #{message}

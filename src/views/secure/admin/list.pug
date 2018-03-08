@@ -1,0 +1,15 @@
+extends ../../layout.pug
+
+block content
+    h1 Admins
+
+    mixin adminItem(admin)
+        div
+        a(href="/cms/secure/admin/" + admin.id) #{admin.username}
+
+    for admin in admins
+        +adminItem(admin)
+
+    br
+    br
+    a(href="/cms/secure/admin/create") Add new admin

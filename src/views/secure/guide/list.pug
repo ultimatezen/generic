@@ -1,0 +1,15 @@
+extends ../../layout.pug
+
+block content
+    h1 Guides
+
+    mixin guideItem(guide)
+        div
+        a(href="/cms/secure/guide/" + guide.id) #{guide.username}
+
+    for guide in guides
+        +guideItem(guide)
+
+    br
+    br
+    a(href="/cms/secure/guide/create") Add new guide
